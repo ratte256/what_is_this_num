@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>トップメニュー</title>
+    <title>素数判定サイト</title>
 </head>
 <body>
-    <h1>メニュー</h1>
-    <ul>
-        <li><a href="prime-checker.html">素数判定サイト</a></li>
-    </ul>
+    <h1>数の分類</h1>
+    <p>判定したい数を入力してください:</p>
+    <input type="text" id="numberInput">
+    <button onclick="checkNumber()">判定</button>
+    <p id="result"></p>
+
+    <script src="script.js"></script>
 </body>
 </html>
