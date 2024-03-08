@@ -29,7 +29,7 @@
 }
 
 .center {
-    float: left
+    float: center
     width: 80%;
     background-color: #ffffff; /* 背景色をグレーに設定 */
     color: #333333; /* テキストカラーを黒に設定 */
