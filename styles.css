@@ -5,3 +5,34 @@
     padding: 10px 0;
     background-color: #f0f0f0;
 }
+
+.left {
+    width: 25%;
+    background-color: #233b6c; /* 紺色 */
+    color: #ffffff; /* テキストカラーを白に設定 */
+    text-align: center;
+}
+
+.right {
+    width: 25%;
+    background-color: #233b6c; /* 紺色 */
+    color: #ffffff; /* テキストカラーを白に設定 */
+    text-align: center;
+}
+
+.center {
+    width: 50%;
+    background-color: #f0f0f0; /* 背景色をグレーに設定 */
+    color: #333333; /* テキストカラーを黒に設定 */
+    text-align: center;
+}
+
+.container {
+    display: flex;
+}
+
+.title {
+    font-size: 32px;
+    margin-bottom: 20px;
+    text-align: center;
+}
