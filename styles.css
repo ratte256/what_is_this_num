@@ -13,7 +13,6 @@
 }
 
 .left {
-    float: left;
     width: 20%;
     background-color: #233b6c; /* 紺色 */
     color: #ffffff; /* テキストカラーを白に設定 */
@@ -21,7 +20,6 @@
 }
 
 .right {
-    float: right;
     width: 20%;
     background-color: #233b6c; /* 紺色 */
     color: #ffffff; /* テキストカラーを白に設定 */
@@ -29,7 +27,6 @@
 }
 
 .center {
-    float: center
     width: 80%;
     background-color: #ffffff; /* 背景色をグレーに設定 */
     color: #333333; /* テキストカラーを黒に設定 */
