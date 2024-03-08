@@ -15,14 +15,14 @@
 .left {
     width: 20%;
     background-color: #f0f0f0; /* 紺色 */
-    color: #ffffff; /* テキストカラーを白に設定 */
+    color: #000000; /* テキストカラーを白に設定 */
     text-align: center;
 }
 
 .right {
     width: 20%;
     background-color: #f0f0f0; /* 紺色 */
-    color: #ffffff; /* テキストカラーを白に設定 */
+    color: #000000; /* テキストカラーを白に設定 */
     text-align: center;
 }
 
