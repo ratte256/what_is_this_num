@@ -3,40 +3,18 @@
 .left {
     width: 25%;
     background-color: #233b6c; /* 紺色 */
-    color: #ffffff; /* テキストカラーを白に設定 */
+    color: #dddddd; /* テキストカラーをグレーに設定 */
     text-align: center;
 }
 
 .right {
     width: 25%;
     background-color: #233b6c; /* 紺色 */
-    color: #ffffff; /* テキストカラーを白に設定 */
+    color: #dddddd; /* テキストカラーをグレーに設定 */
     text-align: center;
 }
 
 .center {
     width: 50%;
     background-color: #f0f0f0; /* 背景色をグレーに設定 */
-    color: #333333; /* テキストカラーを黒に設定 */
-    text-align: left;
-}
-
-.container {
-    display: flex;
-    min-height: 100vh; /* ビューポートの高さいっぱいに表示 */
-    flex-direction: column;
-}
-
-.footer {
-    width: 100%;
-    background-color: #233b6c; /* 紺色 */
-    color: #ffffff; /* テキストカラーを白に設定 */
-    position: fixed;
-    bottom: 0;
-    padding: 10px 0;
-    text-align: center;
-}.title {
-    font-size: 32px;
-    margin-bottom: 20px;
-    text-align: center;
-}
+    color: #333333; /* テ
