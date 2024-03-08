@@ -2,8 +2,6 @@
 
 .container {
     display: flex;
-    min-height: 100vh; /* ビューポートの高さいっぱいに表示 */
-    flex-direction: column;
 }
 
 .footer {
