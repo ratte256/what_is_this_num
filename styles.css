@@ -18,7 +18,7 @@
     width: 60%;
     background-color: #f0f0f0; /* 背景色をグレーに設定 */
     color: #333333; /* テキストカラーを黒に設定 */
-    text-align: left; /* テキストを左寄せに設定 */
+    text-align: center; /* テキストを左寄せに設定 */
 }
 
 .container {
